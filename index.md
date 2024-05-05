@@ -10,7 +10,8 @@ Research Interests:
 ## Publications
 
 Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
-ResearchGate [Link](https://www.researchgate.net/profile/Henry_Zhong)
+
+Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 * Zhong, Henry. "Lightweight Algorithms for Depth Sensor Equipped Embedded Devices." School of Computer Science & Engineering, Faculty of Engineering, UNSW, 2017. [PDF](https://www.researchgate.net/profile/Henry-Zhong/publication/330383222_Lightweight_Algorithms_for_Depth_Sensor_Equipped_Embedded_Devices/links/5c3d595992851c22a375cbb3/Lightweight-Algorithms-for-Depth-Sensor-Equipped-Embedded-Devices.pdf)
 * Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "VeinDeep: Smartphone unlock using vein patterns." Pervasive Computing and Communications (PerCom), 2017 IEEE International Conference on. IEEE, 2017. [PDF](https://www.researchgate.net/profile/Henry-Zhong/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns/links/59d8733faca272e609644c07/VeinDeep-Smartphone-unlock-using-vein-patterns.pdf)
@@ -44,7 +45,6 @@ QuickFind is a fast segmentation and object detection algorithm using only depth
 
 The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their [site](https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
 
-
 This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
 
 ```
@@ -57,3 +57,27 @@ This project was created during my PhD. The associated research paper was presen
 	organization={IEEE}
 }
 ```
+
+## CV
+
+### Education
+
+| Doctor of Philosophy in Computer Science                        | UNSW Sydney | 2011 - 2017 |
+| Ubiquitous Computing, Computer Vision                           |             |             |
+| Bachelor of Engineering and Commerce                            | UNSW Sydney | 2005 - 2010 |
+| 1st Class Honours - Software Engineering and Actuarial Studies. |             |             |
+
+### Experience
+
+| Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
+| Vardogyir                | Research and Development | 2018 - 2020 |
+| UNSW Sydney              | Research Assistant       | 2015 - 2017 |
+| NEC/UNSW Sydney          | Research Collaborator    | 2011 - 2014 |
+| NICTA (now CSIRO/Data61) | Intern Developer         | 2009 - 2011 |
+| Macquarie Group          | Intern Developer         | 2007 - 2008 |
+
+### Skills
+
+Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
+
+Areas of research - Ubiquitous Computing, Computer Vision.
