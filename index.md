@@ -32,7 +32,7 @@ This project was created during my PhD. The associated research paper was presen
 
 QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful.
 
-The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their site (https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
+The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their [site](https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
 
 
 This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
