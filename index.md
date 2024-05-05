@@ -10,7 +10,7 @@ Research Interests:
 # Code/Data Samples
 
 ## VeinDeep
-![VeinDeep](veindeep_image.png | width=400)
+![VeinDeep](veindeep_image.png)
 
 VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone.
 
@@ -28,7 +28,7 @@ This project was created during my PhD. The associated research paper was presen
 ```
 
 ## QuickFind
-![QuickFind](quickfind_image.png | width=400)
+![QuickFind](quickfind_image.png)
 
 QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful.
 
