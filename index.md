@@ -22,7 +22,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 ### VeinDeep
 <img src="https://hzhongresearch.github.io/veindeep_image.png" width="400">
-[Paper](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)
+[Paper](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
 [Code](https://github.com/hzhongresearch/veindeep_program)
 [Data](https://github.com/hzhongresearch/veindeep_data)
 
