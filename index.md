@@ -1,11 +1,12 @@
 ## Henry Zhong Research
 
-I am always on the lookout for interesting projects. If you would like to collaborate on research or work, contact me using: hhcz728 (at) gmail (dot) com .
+If you would like to collaborate on research, contact me using: hhcz728 (at) gmail (dot) com .
 
 Research Interests:
 
 * Ubiquitous Computing
 * Computer Vision
+* Computer Audition
 
 ## Publications
 
@@ -28,7 +29,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone.
 
-This project was created during my PhD. The associated research paper was presented at PerCom 2017. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
+This project was created during my PhD. The associated research paper was presented at PerCom 2017. My research is in Ubiquitous Computing and Computer Vision. If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2017veindeep,
@@ -51,7 +52,7 @@ QuickFind is a fast segmentation and object detection algorithm using only depth
 
 The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their [site](https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
 
-This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
+This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2016quickfind,
@@ -74,7 +75,7 @@ This project was created during my PhD. The associated research paper was presen
 | 1st Class Honours - Software Engineering and Actuarial Studies. |             |             |
 
 ### Experience
-
+| Macquarie University     | Postdoc                  | 2024 -      |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
 | Vardogyir                | Research and Development | 2018 - 2020 |
 | UNSW Sydney              | Research Assistant       | 2015 - 2017 |
@@ -86,4 +87,4 @@ This project was created during my PhD. The associated research paper was presen
 
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
-Areas of research - Ubiquitous Computing, Computer Vision.
+Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
