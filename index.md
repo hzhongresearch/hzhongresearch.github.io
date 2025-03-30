@@ -75,6 +75,7 @@ This project was created during my PhD. The associated research paper was presen
 | 1st Class Honours - Software Engineering and Actuarial Studies. |             |             |
 
 ### Experience
+
 | Macquarie University     | Postdoc                  | 2024 -      |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
 | Vardogyir                | Research and Development | 2018 - 2020 |
