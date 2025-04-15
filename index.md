@@ -27,9 +27,9 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 [Code](https://github.com/hzhongresearch/veindeep_program)
 [Data](https://github.com/hzhongresearch/veindeep_data)
 
-VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone.
+VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone. This project was created during my PhD. The associated research paper was presented at PerCom 2017.
 
-This project was created during my PhD. The associated research paper was presented at PerCom 2017. My research is in Ubiquitous Computing and Computer Vision. If you use this work please cite our paper.
+If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2017veindeep,
@@ -48,11 +48,11 @@ This project was created during my PhD. The associated research paper was presen
 [Code](https://github.com/hzhongresearch/quickfind_program)
 [Data](https://github.com/hzhongresearch/quickfind_mask_data)
 
-QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful.
+QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful. This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016.
 
 The data contains amended ground truth of the RGB-D Scenes dataset used in the QuickFind paper. The ground truth in the original RGB-D scenes dataset had many errors so I manually traced out the location of each object. Credit for RGB-D Scenes goes to Lai et al. Please visit their [site](https://rgbd-dataset.cs.washington.edu/dataset.html) and credit them if you use my amended data in conjunction with their RGB-D Scenes dataset.
 
-This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016. My research is in Ubiquitous Computing and Computer Vision. If you use this work please cite our paper.
+If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2016quickfind,
@@ -69,7 +69,7 @@ This project was created during my PhD. The associated research paper was presen
 
 ### Education
 
-|                                                                 |             |             |
+| Degrees                                                         | Schools     | Dates       |
 |:----------------------------------------------------------------|:------------|:------------|
 | Doctor of Philosophy in Computer Science                        | UNSW Sydney | 2011 - 2017 |
 | Ubiquitous Computing, Computer Vision                           |             |             |
@@ -78,7 +78,7 @@ This project was created during my PhD. The associated research paper was presen
 
 ### Experience
 
-|                          |                          |             |
+| Organisations            | Roles                    | Dates       |
 |:-------------------------|:-------------------------|:------------|
 | Macquarie University     | Postdoc                  | 2024 -      |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
