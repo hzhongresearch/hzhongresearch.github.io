@@ -69,6 +69,8 @@ This project was created during my PhD. The associated research paper was presen
 
 ### Education
 
+|                                                                 |             |             |
+|:----------------------------------------------------------------|:------------|:------------|
 | Doctor of Philosophy in Computer Science                        | UNSW Sydney | 2011 - 2017 |
 | Ubiquitous Computing, Computer Vision                           |             |             |
 | Bachelor of Engineering and Commerce                            | UNSW Sydney | 2005 - 2010 |
@@ -76,6 +78,8 @@ This project was created during my PhD. The associated research paper was presen
 
 ### Experience
 
+|                          |                          |             |
+|:-------------------------|:-------------------------|:------------|
 | Macquarie University     | Postdoc                  | 2024 -      |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
 | Vardogyir                | Research and Development | 2018 - 2020 |
