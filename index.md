@@ -1,5 +1,4 @@
 ## Henry Zhong Research
-
 If you would like to collaborate on research, contact me using: hhcz728 (at) gmail (dot) com .
 
 Research Interests:
@@ -9,7 +8,6 @@ Research Interests:
 * Computer Audition
 
 ## Publications
-
 Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
 
 Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
@@ -25,7 +23,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 <img src="https://hzhongresearch.github.io/veindeep_image.png" width="400">
 [Paper](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
 [Code](https://github.com/hzhongresearch/veindeep_program)
-[Data](https://github.com/hzhongresearch/veindeep_data)
+[Data](https://huggingface.co/datasets/hzhongresearch/veindeep_data)
 
 VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone. This project was created during my PhD. The associated research paper was presented at PerCom 2017.
 
@@ -46,7 +44,7 @@ If you use this work please cite our paper.
 <img src="https://hzhongresearch.github.io/quickfind_image.png" width="400">
 [Paper](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)
 [Code](https://github.com/hzhongresearch/quickfind_program)
-[Data](https://github.com/hzhongresearch/quickfind_mask_data)
+[Data](https://huggingface.co/datasets/hzhongresearch/quickfind_mask_data)
 
 QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful. This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016.
 
