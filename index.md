@@ -22,11 +22,12 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 ### AHEAD-DS and YAMNet+
 <img src="https://hzhongresearch.github.io/yamnetp_image.png" width="400">
+
 [Paper](https://arxiv.org/abs/2508.10360)
 [Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml/prism-ml-yamnetp-tune)
 [Data](https://huggingface.co/datasets/hzhongresearch/ahead_ds)
+[Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)
 [Data2](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
-[Models](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)
 [Website2](https://github.com/Australian-Future-Hearing-Initiative)
 
 Another HEaring AiD scenes Data Set (AHEAD-DS) is a publicly available audio dataset of audiologically relevant environments for hearing aids. YAMNet+ is a lightweight audio recognition model for deployment on resource constrained edge devices, it is a fully open source re-implementation of YAMNet.
@@ -46,6 +47,7 @@ If you use this work please cite our paper.
 
 ### VeinDeep
 <img src="https://hzhongresearch.github.io/veindeep_image.png" width="400">
+
 [Paper](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
 [Code](https://github.com/hzhongresearch/veindeep_program)
 [Data](https://huggingface.co/datasets/hzhongresearch/veindeep_data)
@@ -67,6 +69,7 @@ If you use this work please cite our paper.
 
 ### QuickFind
 <img src="https://hzhongresearch.github.io/quickfind_image.png" width="400">
+
 [Paper](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)
 [Code](https://github.com/hzhongresearch/quickfind_program)
 [Data](https://huggingface.co/datasets/hzhongresearch/quickfind_mask_data)
@@ -116,3 +119,4 @@ If you use this work please cite our paper.
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
 Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
+
