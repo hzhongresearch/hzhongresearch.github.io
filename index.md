@@ -20,7 +20,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 ## Code/Data Samples
 
-### AHEAD-DS and YAMNet+
+### AHEAD-DS and OpenYAMNet/YAMNet+
 <img src="https://hzhongresearch.github.io/yamnetp_image.png" width="400">
 
 [Paper](https://arxiv.org/abs/2508.10360)
@@ -30,7 +30,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 [Data2](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
 [Website2](https://github.com/Australian-Future-Hearing-Initiative)
 
-Another HEaring AiD scenes Data Set (AHEAD-DS) is a publicly available audio dataset of audiologically relevant environments for hearing aids. YAMNet+ is a lightweight audio recognition model for deployment on resource constrained edge devices, it is a fully open source re-implementation of YAMNet.
+Another HEaring AiD scenes Data Set (AHEAD-DS) is a publicly available audio dataset of audiologically relevant environments for hearing aids. OpenYAMNet/YAMNet+ is a lightweight audio recognition model for deployment on resource constrained edge devices, it is a fully open source re-implementation of YAMNet.
 
 The goal of this project was to design a workflow and toolchain to deploy audio recognition models to smartphones connected to wireless earphones. This project offers a baseline audio recognition model and a standardised dataset for comparing audio recognition models. This is a first step to creating AI enhanced hearing aids.
 
@@ -119,4 +119,5 @@ If you use this work please cite our paper.
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
 Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
+
 
