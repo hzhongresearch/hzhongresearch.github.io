@@ -24,7 +24,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 <img src="https://hzhongresearch.github.io/yamnetp_image.png" width="400">
 
 [Paper](https://arxiv.org/abs/2508.10360)
-[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml/prism-ml-yamnetp-tune)
+[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)
 [Data](https://huggingface.co/datasets/hzhongresearch/ahead_ds)
 [Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)
 [Data2](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
@@ -119,5 +119,6 @@ If you use this work please cite our paper.
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
 Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
+
 
 
