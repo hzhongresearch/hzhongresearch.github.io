@@ -12,7 +12,7 @@ Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=
 
 Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
-* Zhong, Henry, et al. "A dataset and model for recognition of audiologically relevant environments for hearing aids: AHEAD-DS and YAMNet+." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
+* Zhong, Henry, et al. "A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
 * Zhong, Henry. "Lightweight Algorithms for Depth Sensor Equipped Embedded Devices." School of Computer Science & Engineering, Faculty of Engineering, UNSW, 2017. [Link](https://www.researchgate.net/publication/330383222_Lightweight_Algorithms_for_Depth_Sensor_Equipped_Embedded_Devices)
 * Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "VeinDeep: Smartphone unlock using vein patterns." Pervasive Computing and Communications (PerCom), 2017 IEEE International Conference on. IEEE, 2017. [Link](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
 * Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "WashInDepth: Lightweight Hand Wash Monitor Using Depth Sensor." Proceedings of the 13th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services. ACM, 2016. [Link](https://www.researchgate.net/publication/310742284_WashInDepth_Lightweight_Hand_Wash_Monitor_Using_Depth_Sensor)
@@ -37,11 +37,14 @@ The goal of this project was to design a workflow and toolchain to deploy audio 
 If you use this work please cite our paper.
 
 ```
-@article{zhong2025dataset,
-  title={A dataset and model for recognition of audiologically relevant environments for hearing aids: AHEAD-DS and YAMNet+},
-  author={Zhong, Henry and Buchholz, J{\"o}rg M and Maclaren, Julian and Carlile, Simon and Lyon, Richard},
-  journal={arXiv preprint arXiv:2508.10360},
-  year={2025}
+@misc{zhong2026datasetmodelauditoryscene,
+      title={A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet}, 
+      author={Henry Zhong and Jörg M. Buchholz and Julian Maclaren and Simon Carlile and Richard Lyon},
+      year={2026},
+      eprint={2508.10360},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2508.10360}, 
 }
 ```
 
@@ -119,6 +122,7 @@ If you use this work please cite our paper.
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
 Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
+
 
 
 
