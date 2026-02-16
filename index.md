@@ -5,7 +5,7 @@ Research Interests:
 
 * Ubiquitous Computing
 * Computer Vision
-* Computer Audition
+* Machine Hearing
 
 ## Publications
 Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
@@ -13,22 +13,18 @@ Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=
 Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 
 * Zhong, Henry, et al. "A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
-* Zhong, Henry. "Lightweight Algorithms for Depth Sensor Equipped Embedded Devices." School of Computer Science & Engineering, Faculty of Engineering, UNSW, 2017. [Link](https://www.researchgate.net/publication/330383222_Lightweight_Algorithms_for_Depth_Sensor_Equipped_Embedded_Devices)
-* Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "VeinDeep: Smartphone unlock using vein patterns." Pervasive Computing and Communications (PerCom), 2017 IEEE International Conference on. IEEE, 2017. [Link](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
-* Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "WashInDepth: Lightweight Hand Wash Monitor Using Depth Sensor." Proceedings of the 13th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services. ACM, 2016. [Link](https://www.researchgate.net/publication/310742284_WashInDepth_Lightweight_Hand_Wash_Monitor_Using_Depth_Sensor)
-* Zhong, Henry, Salil S. Kanhere, and Chun Tung Chou. "QuickFind: Fast and contact-free object detection using a depth sensor." Pervasive Computing and Communication Workshops (PerCom Workshops), 2016 IEEE International Conference on. IEEE, 2016. [Link](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)
 
 ## Code/Data Samples
 
 ### AHEAD-DS and OpenYAMNet/YAMNet+
-<img src="https://hzhongresearch.github.io/yamnetp_image.png" width="400">
+<img src="yamnetp_image.png" width="400">
 
 [Paper](https://arxiv.org/abs/2508.10360)
 [Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)
-[Data](https://huggingface.co/datasets/hzhongresearch/ahead_ds)
+[Dataset Mixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds)
+[Data Unmixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
 [Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)
-[Data2](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
-[Website2](https://github.com/Australian-Future-Hearing-Initiative)
+[Project Website](https://github.com/Australian-Future-Hearing-Initiative)
 
 Another HEaring AiD scenes Data Set (AHEAD-DS) is a publicly available audio dataset of audiologically relevant environments for hearing aids. OpenYAMNet/YAMNet+ is a lightweight audio recognition model for deployment on resource constrained edge devices, it is a fully open source re-implementation of YAMNet.
 
@@ -109,7 +105,7 @@ If you use this work please cite our paper.
 
 | Organisations            | Roles                    | Dates       |
 |:-------------------------|:-------------------------|:------------|
-| Macquarie University     | Postdoc                  | 2024 -      |
+| Macquarie University     | Postdoc                  | 2024 - 2026 |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
 | Vardogyir                | Research and Development | 2018 - 2020 |
 | UNSW Sydney              | Research Assistant       | 2015 - 2017 |
@@ -121,7 +117,6 @@ If you use this work please cite our paper.
 
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
 
-Areas of research - Ubiquitous Computing, Computer Vision, Computer Audition
 
 
 
