@@ -103,19 +103,13 @@ If you use this work please cite our paper.
 
 | Organisations            | Roles                    | Dates       |
 |:-------------------------|:-------------------------|:------------|
-| Macquarie University     | Postdoc                  | 2024 - 2026 |
+| Macquarie Uni/Google     | Postdoc Researcher       | 2024 - 2026 |
 | Spiral Blue              | Co-founder, Head of AI   | 2018 - 2024 |
 | Vardogyir                | Research and Development | 2018 - 2020 |
-| UNSW Sydney              | Research Assistant       | 2015 - 2017 |
-| NEC/UNSW Sydney          | Research Collaborator    | 2011 - 2014 |
+| UNSW Sydney/NEC          | PhD Researcher           | 2011 - 2017 |
 | NICTA (now CSIRO/Data61) | Intern Developer         | 2009 - 2011 |
 | Macquarie Group          | Intern Developer         | 2007 - 2008 |
 
 ### Skills
 
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
-
-
-
-
-
