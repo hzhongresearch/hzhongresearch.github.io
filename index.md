@@ -19,16 +19,11 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 ### AHEAD-DS and OpenYAMNet/YAMNet+
 <img src="yamnetp_image.png" width="400">
 
-[Paper](https://arxiv.org/abs/2508.10360)
-
-[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)
-
-[Dataset Mixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds)
-
-[Data Unmixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)
-
-[Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)
-
+[Paper](https://arxiv.org/abs/2508.10360)  
+[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)  
+[Dataset Mixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds)  
+[Data Unmixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)  
+[Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)  
 [Project Website](https://github.com/Australian-Future-Hearing-Initiative)
 
 Another HEaring AiD scenes Data Set (AHEAD-DS) is a publicly available audio dataset of audiologically relevant environments for hearing aids. OpenYAMNet/YAMNet+ is a lightweight audio recognition model for deployment on resource constrained edge devices, it is a fully open source re-implementation of YAMNet.
@@ -52,10 +47,8 @@ If you use this work please cite our paper.
 ### VeinDeep
 <img src="veindeep_image.png" width="400">
 
-[Paper](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)
-
-[Code](https://github.com/hzhongresearch/veindeep_program)
-
+[Paper](https://www.researchgate.net/publication/316733062_VeinDeep_Smartphone_unlock_using_vein_patterns)  
+[Code](https://github.com/hzhongresearch/veindeep_program)  
 [Data](https://huggingface.co/datasets/hzhongresearch/veindeep_data)
 
 VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person's hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone. This project was created during my PhD. The associated research paper was presented at PerCom 2017.
@@ -76,10 +69,8 @@ If you use this work please cite our paper.
 ### QuickFind
 <img src="quickfind_image.png" width="400">
 
-[Paper](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)
-
-[Code](https://github.com/hzhongresearch/quickfind_program)
-
+[Paper](https://www.researchgate.net/publication/301583832_QuickFind_Fast_and_contact-free_object_detection_using_a_depth_sensor)  
+[Code](https://github.com/hzhongresearch/quickfind_program)  
 [Data](https://huggingface.co/datasets/hzhongresearch/quickfind_mask_data)
 
 QuickFind is a fast segmentation and object detection algorithm using only depth maps. Depth maps are images captured from depth sensors like Kinect. The idea is in the future depth sensors will be common so such an algorithm will be useful. This project was created during my PhD. The associated research paper was presented at PerCom Workshops 2016.
