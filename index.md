@@ -22,7 +22,7 @@ Research Gate [Link](https://www.researchgate.net/profile/Henry_Zhong)
 [Paper](https://arxiv.org/abs/2508.10360)  
 [Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)  
 [Dataset Mixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds)  
-[Data Unmixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)  
+[Dataset Unmixed](https://huggingface.co/datasets/hzhongresearch/ahead_ds_unmixed)  
 [Model](https://huggingface.co/hzhongresearch/yamnetp_ahead_ds)  
 [Project Website](https://github.com/Australian-Future-Hearing-Initiative)
 
