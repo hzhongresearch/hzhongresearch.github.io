@@ -10,7 +10,7 @@ Research Interests:
 ## Publications
 * Zhong, Henry, et al. "A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
 
-More linked on Google Scholar [Link](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
+More linked on [Google Scholar](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
 
 ## Project/Code/Data Samples
 
