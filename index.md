@@ -8,7 +8,7 @@ Research Interests:
 * Machine Hearing
 
 ## Latest Publications
-* Zhong, Henry, et al. "AuditoryHuM: Auditory Scene Label Generation and Clustering using Human-MLLM Collaboration." arXiv preprint arXiv:2602 (2026). [Link](https://arxiv.org/abs/2602)
+* Zhong, Henry, et al. "AuditoryHuM: Auditory Scene Label Generation and Clustering using Human-MLLM Collaboration." arXiv preprint arXiv:2602 (2026). [Link](https://arxiv.org/abs/2602.19409)
 * Zhong, Henry, et al. "A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
 
 More linked on [Google Scholar](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
