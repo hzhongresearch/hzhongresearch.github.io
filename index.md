@@ -19,7 +19,7 @@ More linked on [Google Scholar](https://scholar.google.com/citations?user=GSA0Yw
 <img src="cluster_arch.png" width="400">
 
 [Paper](https://arxiv.org/abs/2602.19409)  
-[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml/prism-ml-auditoryhum)  
+[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)  
 [Supplementary Data](https://huggingface.co/datasets/hzhongresearch/auditoryhum_supplementary)  
 [Demo Website With Alignment Samples](https://huggingface.co/spaces/hzhongresearch/auditoryhum_samples)  
 [Project Website](https://github.com/Australian-Future-Hearing-Initiative)
@@ -141,3 +141,4 @@ If you use this work please cite our paper.
 ### Skills
 
 Tech - C#, C++, Keras, OpenCV, Pandas, Python, Pytorch, Tensorflow.
+
