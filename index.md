@@ -7,12 +7,39 @@ Research Interests:
 * Computer Vision
 * Machine Hearing
 
-## Publications
+## Latest Publications
+* Zhong, Henry, et al. "AuditoryHuM: Auditory Scene Label Generation and Clustering using Human-MLLM Collaboration." arXiv preprint arXiv:2602 (2026). [Link](https://arxiv.org/abs/2602)
 * Zhong, Henry, et al. "A dataset and model for auditory scene recognition for hearing devices: AHEAD-DS and OpenYAMNet." arXiv preprint arXiv:2508.10360 (2025). [Link](https://arxiv.org/abs/2508.10360)
-
 More linked on [Google Scholar](https://scholar.google.com/citations?user=GSA0YwsAAAAJ&hl=en)
 
 ## Project/Code/Data Samples
+
+### AuditoryHuM
+<img src="cluster_arch.png" width="400">
+
+[Paper](https://arxiv.org/abs/2602.19409)  
+[Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml/prism-ml-auditoryhum)  
+[Supplementary Data](https://huggingface.co/datasets/hzhongresearch/auditoryhum_supplementary)  
+[Demo Website With Alignment Samples](https://huggingface.co/spaces/hzhongresearch/auditoryhum_samples)  
+[Project Website](https://github.com/Australian-Future-Hearing-Initiative)
+
+AuditoryHuM is a framework for the unsupervised discovery and clustering of auditory scene labels using a collaborative human-Multimodal Large Language Model (MLLM) approach. The framework generates contextually relevant labels for audio data. To ensure label quality and mitigate hallucinations, we employ zero-shot learning techniques (Human-CLAP) to quantify the alignment between generated text labels and raw audio content. A strategically targeted human-in-the-loop intervention is then used to refine the least aligned pairs. The discovered labels are grouped into thematically cohesive clusters using an adjusted silhouette score that incorporates a penalty parameter (λ) to balance cluster cohesion and thematic granularity. 
+
+AuditoryHuM provides a scalable, low-cost solution for creating standardised taxonomies. Which facilitates the training of lightweight scene recognition models deployable to edge devices, such as hearing aids and smart home assistants
+
+If you use this work please cite our paper.
+
+```
+@misc{zhong2026auditoryhumauditoryscenelabel,
+      title={AuditoryHuM: Auditory Scene Label Generation and Clustering using Human-MLLM Collaboration}, 
+      author={Henry Zhong and Jörg M. Buchholz and Julian Maclaren and Simon Carlile and Richard F. Lyon},
+      year={2026},
+      eprint={2602.19409},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2602.19409},
+}
+```
 
 ### AHEAD-DS and OpenYAMNet/YAMNet+
 <img src="yamnetp_image.png" width="400">
