@@ -16,7 +16,7 @@ More linked on [Google Scholar](https://scholar.google.com/citations?user=GSA0Yw
 ## Project/Code/Data Samples
 
 ### AuditoryHuM
-<img src="cluster_arch.png" width="400">
+<img src="cluster_image.png" width="400">
 
 [Paper](https://arxiv.org/abs/2602.19409)  
 [Code](https://github.com/Australian-Future-Hearing-Initiative/prism-ml)  
@@ -83,12 +83,34 @@ If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2017veindeep,
-	title={VeinDeep: Smartphone unlock using vein patterns},
-	author={Zhong, Henry and Kanhere, Salil S and Chou, Chun Tung},
-	booktitle={Pervasive Computing and Communications (PerCom), 2017 IEEE International Conference on},
-	pages={2--10},
-	year={2017},
-	organization={IEEE}
+    title={VeinDeep: Smartphone unlock using vein patterns},
+    author={Zhong, Henry and Kanhere, Salil S and Chou, Chun Tung},
+    booktitle={Pervasive Computing and Communications (PerCom), 2017 IEEE International Conference on},
+    pages={2--10},
+    year={2017},
+    organization={IEEE}
+}
+```
+
+### WashInDepth
+<img src="washindepth_image.png" width="400">
+
+[Paper](https://www.researchgate.net/publication/310742284_WashInDepth_Lightweight_Hand_Wash_Monitor_Using_Depth_Sensor)  
+[Data](https://huggingface.co/datasets/hzhongresearch/washindepth_data)
+
+WashInDepth is a contact free hand wash monitor using a depth sensor (Kinect V1). The system sits above a sink and monitors a user while they wash their hands. It determines if they have followed correct hand hygiene procedures.
+
+The code is currently closed source as it has attracted commercial interest. It was developed as an extension of the QuickFind segmentation and object detection algorithm. Modern Deep Learning should be able to achieve much better results when trained with the supplied data, compared to the original WashInDepth.
+
+If you use this work please cite our paper.
+
+```
+@inproceedings{zhong2016washindepth,
+    title={WashInDepth: Lightweight hand wash monitor using depth sensor},
+    author={Zhong, Henry and Kanhere, Salil S and Chou, Chun Tung},
+    booktitle={Proceedings of the 13th International Conference on Mobile and Ubiquitous Systems: Computing,  Networking and Services},
+    pages={28--37},
+    year={2016}
 }
 ```
 
@@ -107,12 +129,12 @@ If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2016quickfind,
-	title={Quickfind: Fast and contact-free object detection using a depth sensor},
-	author={Zhong, Henry and Kanhere, Salil S and Chou, Chun Tung},
-	booktitle={Pervasive Computing and Communication Workshops (PerCom Workshops), 2016 IEEE International Conference on},
-	pages={1--6},
-	year={2016},
-	organization={IEEE}
+    title={Quickfind: Fast and contact-free object detection using a depth sensor},
+    author={Zhong, Henry and Kanhere, Salil S and Chou, Chun Tung},
+    booktitle={Pervasive Computing and Communication Workshops (PerCom Workshops), 2016 IEEE International Conference on},
+    pages={1--6},
+    year={2016},
+    organization={IEEE}
 }
 ```
 
